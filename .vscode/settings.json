@@ -1,0 +1,12 @@
+{
+    "gopls" : {
+        "ui.semanticTokens": true
+    },
+    "go.useLanguageServer": true,
+    "go.inferGopath": false,
+    "go.gopath": "/home/robert/Code/go",
+    "go.goroot": "/home/robert/go",
+    "go.toolsEnvVars": {
+        "GOBIN": "/home/robert/Code/go/bin"
+    }
+}
